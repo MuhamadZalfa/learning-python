@@ -1,0 +1,9 @@
+#Day 1 Belajar Ptyhon
+
+nama = "Zalfa"
+umur = 21
+tinggi = 165
+print("Nama Saya", nama)
+print ("Umur Saya", umur, "tahun")
+print ("Tinggi Badan saya", tinggi, "Cm")
+print ("nama saya", nama, "umur saya", umur, "dan tinggi saya" , tinggi)
