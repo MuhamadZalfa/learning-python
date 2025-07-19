@@ -1,0 +1,20 @@
+#Day2 learn python
+#input data dan tipe data
+
+#Minta data dari pengguna
+nama = input("Masukan Nama: ")
+umur = int(input("Umurmu: "))
+tinggi = float(input("Tinggi badan: "))
+
+#Tampilkan hasil
+print = ("Nama: ", nama)
+print = ("Umur: ", umur, "Tahun")
+print = ("Tinggi: ", tinggi, "cm")
+
+
+#contoh program
+tahun_lahir = int(input("Thn lahir: "))
+tahun_skrg = 2025
+umur = tahun_skrg - tahun_lahir
+
+print ("Umur kamu: ", umur, "tahun")
